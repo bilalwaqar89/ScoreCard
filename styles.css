@@ -1,0 +1,36 @@
+.nav-wrapper{
+	display: flex;
+	align-content: center;
+	justify-content: space-evenly;
+	
+	
+	
+}
+.nav{
+	background: #074591;
+	width: 300px;
+	height: 300px;
+	margin: auto;
+}
+
+#sc1{
+	background: black;
+	color: red;
+	text-align: center;
+}
+
+.main_title{
+	color: white;
+}
+
+#sc2{
+	background: black;
+	color: red;
+	text-align: center;
+}
+
+#btns{
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+}
